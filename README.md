@@ -1,7 +1,11 @@
 ---
-services: azure-storage
-platforms: nodejs
-author: tamram
+page_type: sample
+languages:
+- javascript
+products:
+- azure
+description: "This sample shows how to manage your storage account using the Azure Storage Resource Provider for Node.js."
+urlFragment: storage-node-resource-provider-getting-started
 ---
 
 # Getting Started with Azure Storage Resource Provider in Node.js
